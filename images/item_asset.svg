@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="104px" viewBox="0 0 102 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>_ Heart Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="150.37114%" y1="315.567482%" x2="-102.242978%" y2="-399.631987%" id="linearGradient-1">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Totemic-1920" transform="translate(-1100.000000, -3253.000000)">
+            <g id="HOW-IT-WORKS" transform="translate(-119.000000, 1920.000000)">
+                <g id="A-VAL.-ASSET" transform="translate(1086.000000, 1334.000000)">
+                    <g id="_-Heart-Icon" transform="translate(133.000000, 0.000000)">
+                        <path d="M49.1906201,81.7619043 C48.6754928,81.7622505 48.1814777,81.560434 47.8179659,81.2011437 L25.3133011,59.0477204 L25.1485826,58.8788166 C17.7019339,51.3389507 17.1460089,39.6440511 24.0504593,32.8473619 C30.5774298,26.4222611 41.5174834,26.5168473 49.1974833,32.7798004 C56.87062,26.5168473 67.8175369,26.4357734 74.3376441,32.8473619 L74.3376441,32.8473619 C81.2420945,39.6440511 80.7342124,51.3457068 73.1914779,58.9261097 L73.0336226,59.0950135 L50.5632742,81.2011437 C50.1997624,81.560434 49.7057473,81.7622505 49.1906201,81.7619043 L49.1906201,81.7619043 Z M36.184722,31.8609637 C32.6810564,31.8043982 29.3000849,33.130327 26.7957676,35.5430667 C21.3669204,40.8871831 21.9159821,50.1498679 27.99684,56.2506734 L28.1341054,56.3925526 L49.2112099,77.1542085 L70.3089042,56.3857964 L70.4393063,56.2506734 C76.4995744,50.1701363 77.0280462,40.8736708 71.6129256,35.5498228 C66.197805,30.2259749 56.767671,30.7394424 50.583864,36.6983687 C49.8022729,37.3865342 48.6201468,37.3865342 47.8385557,36.6983687 C44.7435364,33.6514013 40.5615717,31.9155042 36.184722,31.8609637 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M21.6,75.3492063 L4.8,92.1825397" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M17.8,79 L1,95.8333333" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M64.8,5.61111111 L48,22.4444444" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M70.4,0 L53.6,16.8333333" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M97.4,39 L87,49.4206349" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M100.4,36 L90,46.4206349" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M11.2,58.515873 L0.8,68.9365079" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M13.6,56.1111111 L3.2,66.531746" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M34.4,91 L24,101.420635" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M37.4,88 L27,98.4206349" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M94.4,8.01587302 L77.6,24.8492063" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M97.6,4.80952381 L80.8,21.6428571" id="Shape" stroke="#F68D20" stroke-width="1.44" opacity="0.62" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,710 @@
+* {
+    box-sizing: border-box;     
+}
+
+body {
+    background: transparent url('/images/background_top.png') center 0 no-repeat scroll;
+    font-family: "Lato";
+}
+html,
+body {
+    margin:0;
+    padding:0;
+}
+
+header,
+footer,
+section {
+    max-width:1920px;
+    margin:0 auto;
+    padding:0 12%;    
+}
+
+h1 {
+    font-family: "Lato";
+    font-weight:900;
+    font-size:70px;
+    color:#6a3b52;
+}
+h2 {
+    font-family: "Lato";
+    font-weight:900;
+    font-size:50px;
+    color:#6a3b52;
+}
+h3 {
+    font-family: "Lato";
+    font-weight:600;
+    font-size:34px;
+    text-transform: uppercase;
+    color:#6a3b52;
+}
+h4 {
+    font-family: "Lato";
+    font-weight:900;
+    font-size:30px;
+    color:#6a3b52;
+
+}
+p {
+    font-family:"Lato";
+    font-size:20px;
+    color:#b693a4;
+    line-height:1.6;
+}
+
+
+header {
+    padding-top:20px;
+}
+.header__logo {
+    width:179px;
+}
+.header__nav {
+    float:right;
+}
+.header__link {
+    float:left;
+    color:#641c3e;
+    font-size:16px;
+    font-weight:900;
+    text-transform:uppercase;
+    text-decoration: none;
+    margin-left:60px;
+    line-height:50px;
+}
+.header__link--button {
+    border:1px solid white;
+    color:white;
+    padding:0 20px;
+
+}
+
+.intro {
+    text-align:center;
+    margin:0 15%;
+    margin-top:220px;
+    margin-bottom:0px;
+    width:70%;
+    min-width:576px;
+}
+    .intro p {
+        font-size:30px;
+        margin-bottom:80px;
+    }
+
+.market {
+    min-height:620px;
+    background: url('/images/background_media.png');
+    background-position: right 10% center;
+    background-repeat: no-repeat;
+    margin-top: -80px;
+    margin-bottom:20px;
+}
+    .market h2 {
+        max-width:400px;
+        padding-top:160px;
+    }
+    .market p {
+        max-width:50%;
+    }
+
+.totemic-card {
+    text-align:center;
+    padding:0 20%;
+    margin-bottom:120px;
+}
+
+.how-does-it-work {
+    text-align:center;
+}
+    .how-does-it-work h2 {
+        background: transparent url('/images/title_howdoesitwork.svg') center 0 no-repeat scroll;
+        padding-top:260px;
+        padding-bottom:80px;
+    }
+
+.item-holder {
+    overflow:hidden;
+    margin-bottom:80px;
+}
+.item {
+    float:left;
+    width:50%;
+    padding:2%;
+}
+.item--investors {
+    width:auto;
+}
+.item h4 {
+    color:#f47055    
+}
+
+    .item__cards{
+        width: 80%;
+        height: auto;
+        position: relative;
+        z-index: -1;
+    }
+    .item__graphic-holder {
+        height:140px;
+    }
+    .item__graphic {
+        position: relative;
+        top: 50%;
+        transform: translateY(-50%);        
+    }
+    .item--investors .item__graphic {
+        position: static;
+        top:0;
+        transform:none;
+    }
+
+.investors {
+    text-align:center;
+    padding:0 23%;
+}
+.item--investors {
+    width:auto;
+    float:none;
+}
+
+.team {
+    text-align:center;
+    overflow:hidden;
+    margin-bottom:200px;
+}
+.team h2 {
+    background: transparent url('/images/title_team.svg') center 0 no-repeat scroll;
+    padding-top:160px;
+    margin-bottom:120px;
+}
+.team-member {
+    float:left;
+    width:50%;
+    padding:0 60px;
+}
+.team__image {
+    width:260px;
+    border-radius:50%;
+    margin-bottom:30px;
+    box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.3);
+}
+.team__name {
+    color:#ad6487;
+    font-size:20px;
+    margin-bottom:10px;
+}
+.team__title {
+    color:#906379;
+    font-size:16px;
+    margin-bottom:10px;
+}
+
+.roadmap {
+    text-align: center;
+}
+.roadmap h2 {
+    background: transparent url(/images/title_roadmap.png) center 0 no-repeat scroll;
+    padding-top: 206px;
+    margin-bottom: 100px;
+    padding-bottom: 20px;
+    background-size: 260px auto;
+}
+.roadmap__button-holder {
+    margin-bottom:100px;
+}
+.roadmap .roadmap__input {
+    position:relative;
+    width:220px;
+    display:inline-block;
+    text-transform: uppercase;
+    color:#858585;
+    cursor:pointer;
+    z-index:10;
+    margin-right:0;
+    border-radius:0;
+}
+.roadmap .roadmap__input--active {
+    background: linear-gradient(135deg, rgba(244,139,48,1) 0%, rgba(240,112,105,1) 100%);
+    z-index:11;
+    color:white;
+}
+.roadmap .contact-form__input:first-child {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+.roadmap .contact-form__input:last-child {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-left:-30px;
+}
+.roadmap .contact-form__input.roadmap__input--active:first-child {
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.roadmap .contact-form__input.roadmap__input--active:last-child {
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.event-holder--collectors {
+    display:none;
+}
+
+.event {
+    overflow:hidden;
+    background: transparent url('/images/event_divider.svg') center 0 no-repeat scroll;
+    background-position:center 50px;
+    min-height:400px;
+}
+.event:last-child {
+    background: transparent url('/images/event_divider-last.svg') center 0 no-repeat scroll;
+    background-position:center 50px;
+}
+.event__column {
+    float:left;
+    text-align:right;
+    width:50%;
+    padding:0 60px;
+    padding-left:calc(50% - 300px);
+}
+    .event__column:nth-child(2) {
+        text-align:left;
+        padding-left:60px;
+        padding-right:calc(50% - 300px);
+    }
+.event__column p {
+}
+
+.event__date {
+    color:rgba(255,56,19,0.5);
+    font-weight:900;
+    font-size:20px;
+}
+.event-holder {
+}
+
+
+.contact {
+    padding-top:20px;
+    text-align:center;
+    background: transparent url('/images/background_footer.png') center bottom no-repeat scroll;
+}
+.contact p {
+    width:50%;
+    margin:0 25%;
+    margin-bottom:80px;
+}
+.contact-form {
+    margin-bottom:-30px;
+}
+.contact-form__input {
+    height:60px;
+    line-height:60px;
+    font-size:16px;
+    padding:0 30px;
+    border:0;
+    border-radius:30px;
+    margin-right:20px;
+    width:380px;
+    color:#858585;
+    box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.3);
+    outline:none;
+}
+
+.contact-form__input--submit {
+    background: linear-gradient(135deg, rgba(244,139,48,0.86) 0%, rgba(240,112,105,0.86) 100%);
+    color:white;
+    font-weight:600;
+    width:170px;
+    margin-right:0;
+}
+
+.contact footer {
+    padding-bottom:20px;
+}
+.contact footer p {
+    color:#858585;
+    font-size:16px;
+    margin-bottom:0;
+}
+
+
+
+.button {
+    font-align:center;
+    border-radius:20px;
+}
+.button--social-media {
+    background:white;
+    border:1px solid #f5af65;
+    width:190px;
+    margin:0 auto;
+    line-height:40px;
+    color:#ad6487;
+    font-size:16px;
+    background: transparent url('/images/icon_twitter.png') center 0 no-repeat scroll;
+    background-position:20px center;
+}
+
+@media only screen and (max-width: 1366px) {
+    body {
+        background-size:100%;
+    }
+    h1 {
+        font-size:60px;
+    }
+    h2 {
+        font-size:40px;
+    }
+    h3 {
+        font-size:24px;
+    }
+    h4 {
+        font-size:20px;
+    }
+    p {
+        font-size: 18px;
+    }
+
+    header, footer, section {
+        padding: 0 5%;
+        padding-top:80px;
+    }
+
+    .header__link {
+        font-size:14px;
+    }
+
+
+    .intro {
+        padding:0;
+        margin-bottom:0px;
+    }
+        .intro p {
+            font-size:20px;
+        }
+
+    .market {
+        background-size: 35%;
+    }
+
+
+    .how-does-it-work h2 {
+        background-size:200px;
+        padding-top: 200px;
+        padding-bottom: 60px;
+    }
+
+    .team {
+        margin-bottom:120px;
+    }
+    .team h2 {
+        background-size: 180px;
+        padding-top: 140px;
+        margin-bottom:80px;
+    }
+    .team__image {
+        width: 200px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1024px) {
+    .item {
+        width:25%;
+    }
+    .item--investors {
+        width:auto;
+    }    
+    .team-member {
+        width: 33.333333%;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    body {
+        background-size:190%;
+        background-position:0 0;
+    }
+    h1 {
+        font-size:27px;
+        max-width:400px;
+        margin:0 auto;
+    }
+    h2 {
+        font-size:24px;
+    }
+    h3 {
+        font-size:20px;
+    }
+    h4 {
+        font-size:18px;
+    }
+    p {
+        font-size: 14px;
+    }
+
+    header, footer, section {
+        padding: 0 30px;
+        padding-top:80px;
+    }
+    
+    .header__logo {
+        width:130px;
+    }
+
+    .header__nav {
+        display:none;
+    }
+
+
+    .intro {
+        margin:0;
+        padding:0 30px;
+        margin-top:140px;
+        margin-bottom:20px;
+        width:100%;
+        min-width:0;
+    }
+        .intro p {
+            font-size:14px;
+            max-width:480px;
+            margin-left: auto;            
+            margin-right: auto;            
+        }
+    .contact-form__input {
+        width:100%;
+        height: 46px;
+        line-height: 46px;
+        font-size: 14px;
+        padding: 0 23px;
+        border: 0;
+        border-radius: 23px;
+        margin-right: 20px;
+        max-width:420px;
+    }
+    .contact-form__input--submit {
+        clear:left;
+        width:156px;
+        margin-top:35px;
+    }    
+
+    .market {
+        margin-bottom:20px;
+        background: url('/images/background_media-small.png');
+        background-size: 100%;
+        background-position:0 bottom;
+        background-repeat: no-repeat;
+        margin-bottom:60px;
+        min-height:725px;
+    }
+    .market h2 {
+        padding-top:50px;
+        max-width:220px;
+    }
+    .market p {
+        max-width:100%;
+    }
+
+    .totemic-card {
+        padding:0 30px;
+        margin-bottom:20px;
+    }    
+
+
+    .how-does-it-work h2 {
+        background-size:160px;
+        padding-top: 140px;
+        padding-bottom: 80px;
+    }
+
+    .item {
+        float: left;
+        width: 100%;
+        padding: 0 40px;
+        margin-bottom: 40px;
+    }
+    .item img {
+        width:80px;
+        max-height:140px;
+    }
+    .investors .item img {
+        width:140px;
+        max-height:none;
+    }
+    .item-holder {
+        margin-bottom:40px;
+    }
+
+    .investors {
+        padding:0 30px;
+    }
+    .investors .item {
+        padding:0;
+    }
+
+    .team {
+        margin-bottom:80px;
+    }
+    .team-member {
+        width:100%;
+        margin-bottom:60px;
+    }
+    .team h2 {
+        background-size: 180px;
+        padding-top: 140px;
+        margin-bottom:80px;
+    }
+    .team__image {
+        width: 200px;
+        border-radius: 50%;
+        margin-bottom: 20px;
+    }
+
+    .roadmap h2 {
+        background-size: 160px;
+        padding-top: 135px;
+        margin-bottom:40px;
+    }
+    .roadmap__button-holder {
+        display:none;
+    }
+    .event-holder--creators,
+    .event-holder--collectors {
+        display:block;
+    }
+    
+    .event {
+        min-height:360px;
+    }
+    .event__column {
+        padding: 0 30px;
+        padding-left:0;
+    }
+    .event__column:nth-child(2) {
+        padding-left: 30px;
+    }    
+
+    .contact p {
+        width: 100%;
+        margin:0;
+    }
+    .footer {
+        padding:0;
+        padding-top:30px;
+        margin-bottom:30px;
+    }
+
+    .contact--footer {
+        padding-top:60px;
+        background-size:346%;
+    }
+    .contact--footer p {
+        margin-bottom:60px;
+    }
+
+}
+@media only screen and (min-width: 570px) and (max-width: 767px) {
+    header, footer, section {
+        padding: 0 40px;
+        padding-top:20px;
+    }
+    .market h2 {
+        padding-top: 0;
+        max-width: 360px;
+    }
+    .market p {
+        max-width: 80%;
+    }    
+    .totemic-card p {
+        max-width:520px;
+        margin:0 auto;
+    }
+    .item p {
+        max-width:420px;
+        margin:0 auto;
+    }
+    .investors .item p {
+        max-width:520px;
+    }
+    .event__column {
+        padding-left: 30px;
+    }
+}
+
+@media only screen and (min-width: 380px) and (max-width: 767px) {
+    body {
+       background-size: 150%;
+    }
+    .market {
+        background-size:380px;
+        background-position:center bottom;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .intro {
+        margin-top: 100px;
+    }
+    .intro p {
+        margin-bottom: 60px;
+    }    
+    .contact-form {
+        margin-bottom: 40px;
+    }    
+    .contact-form__input {
+        height: 46px;
+        line-height: 46px;
+        font-size: 14px;
+        padding: 0 23px;
+        border: 0;
+        border-radius: 23px;
+        margin-right: 20px;
+    }
+    .contact-form__input--submit {
+        width: 126px;
+        margin-top: 25px;
+    }    
+
+    .item img {
+        width:65px;
+        max-height:120px;
+    }
+    .investors .item img {
+        width:120px;
+        max-height:none;
+    }
+
+    .item-holder {
+        margin-bottom: 40px;
+    }
+
+    .team h2 {
+        background-size: 160px;
+        margin-bottom:60px;
+    }   
+    .team-member {
+        padding:0;
+    }
+
+    .roadmap h2 {
+        background-size: 160px;
+        padding-top: 135px;
+        margin-bottom:40px;
+    }
+    .event {
+        min-height:380px;
+    }
+    .event__date {
+        font-size:18px;
+    }
+
+
+}

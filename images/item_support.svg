@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="105px" viewBox="0 0 74 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>_ Star Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-3.86974663%" y1="49.9661846%" x2="103.940461%" y2="49.9661846%" id="linearGradient-1">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="Totemic-1920" transform="translate(-316.000000, -3261.000000)">
+            <g id="HOW-IT-WORKS" transform="translate(-119.000000, 1920.000000)">
+                <g id="SUPPORT" transform="translate(300.000000, 1342.000000)">
+                    <g id="_-Star-Icon" transform="translate(136.000000, 0.000000)">
+                        <path d="M36.0070107,72.3191489 L36.0070107,96.8638298" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M36.0070107,78.4553191 L36.0070107,103" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M68.5132617,4.00713375 L57.3710616,13.963079" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M71.2950458,1.79493466 L60.1528458,11.7508799" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M5.30009737,3.28723404 L15.9002921,13.806383" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M2.65004869,0.657446809 L13.2502434,11.1765957" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M68.873223,83.4957447 L60.9230769,71.2234043" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M71.0886076,86.7829787 L63.1384615,74.5106383" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M2.21538462,83.4957447 L10.1655307,71.2234043" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M0,87.0021277 L7.95014606,74.7297872" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62"></path>
+                        <path d="M33.2626003,10.7724876 C34.5465053,8.26415659 38.7334622,8.43786372 39.8176487,11.0295741 C42.0858808,15.434787 44.1401288,19.965069 46.3370329,24.4050233 C51.4084577,25.0998519 56.4870153,25.5792836 61.5513072,26.2949569 C64.3331014,26.5311986 65.7739281,30.3180141 63.7838754,32.2357409 C60.1247461,35.8280044 56.2088358,39.1840262 52.4569801,42.6581688 C53.3557136,47.5219685 54.4256345,52.3857682 55.3101023,57.2495679 C56.0233829,60.0288821 52.5639722,62.6275408 50.003295,61.1545043 C45.4311666,58.8893633 41.0088272,56.3393426 36.4509644,53.9908221 C32.1070858,56.2907046 27.8060041,58.6739664 23.4407271,60.9391074 C22.5204805,61.5221045 21.3870742,61.6908203 20.3300902,61.4021485 C19.2731063,61.1134766 18.3949309,60.3953797 17.9199356,59.4313295 C17.2494518,58.1458967 17.7416154,56.7076017 17.9199356,55.3804792 C18.7758722,51.1489734 19.6104105,46.9105194 20.4449487,42.6651171 C16.7715539,39.2813022 13.0125653,35.9947632 9.3819673,32.5623103 C7.86878066,31.2043354 7.7636744,28.9114818 9.14658471,27.4275274 C10.2165055,26.1907327 11.9997069,26.2324224 13.4833305,25.9892324 C17.8486075,25.4820076 22.1996189,24.933093 26.5506303,24.4050233 C28.8045969,19.867793 30.8303136,15.240235 33.2269363,10.7724876 L33.2626003,10.7724876 Z" id="Shape" stroke="url(#linearGradient-1)" stroke-width="4.94208" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

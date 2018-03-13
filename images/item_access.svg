@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="137px" viewBox="0 0 60 137" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>_ Unlock Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="111.127553%" y1="-15.5772755%" x2="-59.5442439%" y2="205.092464%" id="linearGradient-1">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="365.638232%" x2="1069.09633%" y2="-481.614584%" id="linearGradient-2">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="11.1393438%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F5862C" offset="69.0956571%"></stop>
+            <stop stop-color="#F68B24" offset="83.6110561%"></stop>
+            <stop stop-color="#F68D20" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Totemic-1920" transform="translate(-1528.000000, -3230.000000)">
+            <g id="HOW-IT-WORKS" transform="translate(-119.000000, 1920.000000)">
+                <g id="SPECIAL-ACESS" transform="translate(1517.000000, 1310.000000)">
+                    <g id="_-Unlock-Icon" transform="translate(131.000000, 0.000000)">
+                        <path d="M2.20714286,15.8619689 L2.20714286,37.9320207" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M2.20714286,21.7318135 L2.20714286,43.8018653" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M29.6428571,0.56373057 L29.6428571,14.6710881" id="Shape" stroke="#F68D20" stroke-width="1.12896" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M29.6428571,4.31958549 L29.6428571,18.426943" id="Shape" stroke="#F68D20" stroke-width="1.12896" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M55.6785714,14.8683938 L55.6785714,36.931399" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M55.6785714,20.9566839 L55.6785714,43.0267358" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M0.05,89.6613472 L0.05,111.731399" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M0,94.241658 L0,116.31171" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M57.8857143,89.6613472 L57.8857143,111.731399" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M57.8857143,95.7496373 L57.8857143,117.819689" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M29.6428571,104.80456 L29.6428571,126.874611" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M29.6428571,113.760829 L29.6428571,135.830881" id="Shape" stroke="#F68D20" stroke-width="1.4112" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M16.6714286,53.8151295 C10.5055638,53.8151295 5.50714286,58.7462143 5.50714286,64.8290155 L5.50714286,84.855544 C5.52682278,90.9245814 10.5194842,95.8342279 16.6714286,95.8341969 L42.6142857,95.8341969 C48.7801505,95.8341969 53.7785714,90.9031122 53.7785714,84.8203109 L53.7785714,64.8290155 C53.7759132,60.0051874 50.5916703,55.7443794 45.9214286,54.3154404 L45.9214286,48.4526425 C45.9214286,39.5814042 38.6316649,32.3898446 29.6392857,32.3898446 C20.6469065,32.3898446 13.3571429,39.5814042 13.3571429,48.4526425 L18.1428571,48.4526425 C18.2983507,42.2989795 23.3996538,37.3902876 29.6392857,37.3902876 C35.8789176,37.3902876 40.9802208,42.2989795 41.1357143,48.4526425 L41.1357143,53.8221762 L16.6714286,53.8151295 Z M48.9928571,64.8290155 L48.9928571,84.855544 C48.9928571,88.3308745 46.1370734,91.1481865 42.6142857,91.1481865 L16.6714286,91.1481865 C14.9797262,91.1481865 13.3573116,90.4852136 12.1610975,89.3051142 C10.9648833,88.1250148 10.2928571,86.5244566 10.2928571,84.855544 L10.2928571,64.8290155 C10.2928571,63.160103 10.9648833,61.5595448 12.1610975,60.3794454 C13.3573116,59.199346 14.9797262,58.5363731 16.6714286,58.5363731 L42.6142857,58.5363731 C44.305988,58.5363731 45.9284026,59.199346 47.1246168,60.3794454 C48.320831,61.5595448 48.9928571,63.160103 48.9928571,64.8290155 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M29.6428571,66.6963731 C26.8846366,66.6971153 24.5144777,68.6276576 23.9916559,71.2993907 C23.4688341,73.9711238 24.9402616,76.6332945 27.5,77.6468394 L27.5,81.945285 C27.5,83.1128092 28.4593898,84.0592746 29.6428571,84.0592746 C30.8263245,84.0592746 31.7857143,83.1128092 31.7857143,81.945285 L31.7857143,77.6468394 C34.3454527,76.6332945 35.8168802,73.9711238 35.2940584,71.2993907 C34.7712366,68.6276576 32.4010777,66.6971153 29.6428571,66.6963731 Z M29.6428571,70.9243523 C30.4555047,70.9243523 31.1142857,71.5742586 31.1142857,72.3759585 C31.1142857,73.1776585 30.4555047,73.8275648 29.6428571,73.8275648 C28.8302096,73.8275648 28.1714286,73.1776585 28.1714286,72.3759585 C28.1714286,71.5742586 28.8302096,70.9243523 29.6428571,70.9243523 L29.6428571,70.9243523 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

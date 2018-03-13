@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^totemic.co [NC]
+RewriteRule ^(.*)$ http://www.totemic.co/$1 [L,R=301,NC]

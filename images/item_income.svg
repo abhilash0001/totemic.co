@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="125px" viewBox="0 0 101 125" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>_ Arrows Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-17.5281932%" y1="-20.1725275%" x2="166.928219%" y2="173.293305%" id="linearGradient-1">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+        <linearGradient x1="-84430.6974%" y1="64165%" x2="-84012.0953%" y2="46644%" id="linearGradient-2">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Totemic-1920" transform="translate(-1115.000000, -2649.000000)">
+            <g id="HOW-IT-WORKS" transform="translate(-119.000000, 1920.000000)">
+                <g id="REC.-INCOME" transform="translate(1113.000000, 730.000000)">
+                    <g id="_-Arrows-Icon" transform="translate(121.000000, 0.000000)">
+                        <path d="M30.171746,103.611538 L47.9269048,121.21" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M34.2277778,107.530256 L50.0671429,123.236923" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M58.2834127,81.8241026 L76.0385714,99.4225641" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M63.1811111,86.6807692 L80.9362698,104.279231" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M37.6986508,88.0717949 L55.4538095,105.670256" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M42.8528571,93.1748718 L60.6,110.773333" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M66.3794444,21.2946154 L48.6323016,3.69615385" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M62.7322222,17.5984615 L44.9850794,0" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M42.1474603,46.0548718 L24.4003175,28.4564103" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M37.2497619,41.1982051 L19.502619,23.5997436" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M62.7322222,39.8071795 L44.9850794,22.2087179" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M57.5860317,34.7041026 L39.8388889,17.105641" id="Shape" stroke="#F68D20" stroke-width="1.584" opacity="0.62" stroke-linecap="round"></path>
+                        <path d="M48.7765873,56.7538462 C49.0625709,56.4713414 49.4290993,56.2826763 49.8266667,56.2133333 L76.8000794,51.3884615 L81.6737302,24.6410256 C81.8330709,23.755667 82.5875353,23.0965096 83.4933333,23.0512821 C84.431183,22.9955829 85.2856888,23.5834709 85.5614286,24.4741026 L100.671349,72.6115385 L100.671349,72.6115385 C100.894263,73.3102238 100.706222,74.0738606 100.183664,74.5920413 C99.6611052,75.110222 98.8910167,75.2966871 98.1864286,75.075641 L49.6423016,60.0764103 C48.7473342,59.800018 48.1583156,58.9534245 48.2154762,58.025641 C48.2386187,57.5477539 48.4383558,57.0950368 48.7765873,56.7538462 Z M97.5371429,71.9517949 L83.8460317,28.3133333 L79.4613492,52.4615385 C79.3161076,53.2724384 78.6759255,53.9072573 77.8581746,54.0512821 L53.5380159,58.3674359 L97.5371429,71.9517949 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                        <path d="M52.7845238,71.1251282 C52.4985402,71.407633 52.1320118,71.5962981 51.7344444,71.665641 L24.7610317,76.4905128 L19.8953968,103.237949 C19.7360561,104.123307 18.9815917,104.782465 18.0757937,104.827692 C17.1532995,104.875162 16.3141716,104.300851 16.031746,103.428718 L0.889761905,55.2912821 L0.889761905,55.2912821 C0.666848361,54.5925968 0.85488877,53.8289599 1.37744735,53.3107792 C1.90000593,52.7925985 2.67009437,52.6061335 3.37468254,52.8271795 L51.9188095,67.8025641 C52.8169657,68.0759938 53.4098205,68.9233408 53.3536508,69.8533333 C53.3283483,70.332297 53.1256941,70.7851566 52.7845238,71.1251282 L52.7845238,71.1251282 Z M4.00793651,55.9271795 L17.6990476,99.565641 L22.091746,75.4412821 C22.2369876,74.6303821 22.8771697,73.9955632 23.6949206,73.8515385 L48.0230952,69.5035897 L4.00793651,55.9271795 Z" id="Shape" fill="url(#linearGradient-2)" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

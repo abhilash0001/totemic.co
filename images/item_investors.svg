@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="206px" viewBox="0 0 155 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>_ Diamond Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-0.000762258405%" y1="50.0186403%" x2="100.000762%" y2="50.0186403%" id="linearGradient-1">
+            <stop stop-color="#EE499A" offset="0%"></stop>
+            <stop stop-color="#F05683" offset="10%"></stop>
+            <stop stop-color="#F26A5F" offset="27%"></stop>
+            <stop stop-color="#F47944" offset="45%"></stop>
+            <stop stop-color="#F58430" offset="62%"></stop>
+            <stop stop-color="#F68B24" offset="80%"></stop>
+            <stop stop-color="#F68D20" offset="98%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Totemic-1920" transform="translate(-883.000000, -3861.000000)">
+            <g id="HOW-IT-WORKS" transform="translate(-119.000000, 1920.000000)">
+                <g id="_-Diamond-Icon" transform="translate(1003.000000, 1942.000000)">
+                    <path d="M147.66487,34.6003902 L122.837143,59.4684878" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M152.771494,29.4854634 L127.953701,54.3436098" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M5.10662338,34.6003902 L29.9343506,59.4684878" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M0,29.4854634 L24.8177922,54.3436098" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M76.3907143,7.23453659 L76.3907143,42.4021463" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M76.3907143,0 L76.3907143,35.1576585" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M127.516558,178.146732 L116.617792,160.373854" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M130.268571,182.644683 L119.369805,164.871805" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M23.3374675,180.395707 L34.2362338,162.622829" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M20.5755195,184.893659 L31.4742857,167.12078" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M74.6918182,196.078829 L74.6918182,160.921171" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M74.6918182,203.313366 L74.6918182,168.155707" id="Shape" stroke="#F68D20" stroke-width="1.98" opacity="0.62" stroke-linecap="round"></path>
+                    <path d="M45.9397403,69.8376585 C45.4549927,69.8240885 44.9972618,70.0608421 44.7276623,70.4645854 L27.4803896,97.332878 C27.1586103,97.8749812 27.2144107,98.561643 27.6194805,99.0444878 L73.6088961,149.925073 C73.8915127,150.217535 74.2804901,150.382652 74.6868506,150.382652 C75.0932112,150.382652 75.4821886,150.217535 75.7648052,149.925073 L121.754221,99.5420488 C122.159291,99.0592039 122.215091,98.3725422 121.893312,97.830439 L104.646039,70.5043902 C104.380363,70.0900511 103.925523,69.8361217 103.433961,69.8277073 L45.9397403,69.8376585 Z M48.045974,72.713561 L71.9894805,72.713561 L56.5404545,95.3426341 L48.045974,72.713561 Z M77.3742857,72.713561 L101.337662,72.713561 L92.8332468,95.292878 L77.3742857,72.713561 Z M74.6818831,73.7882927 L90.6773377,97.1836098 L58.6963636,97.1836098 L74.6818831,73.7882927 Z M45.5820779,74.4152195 L54.156039,97.1836098 L30.9874675,97.1836098 L45.5820779,74.4152195 Z M103.741948,74.5047805 L118.068312,97.1736585 L95.2176623,97.1736585 L103.741948,74.5047805 Z M32.4280519,100.069463 L55.2787013,100.069463 L71.6318182,143.436878 L32.4280519,100.069463 Z M58.3387013,100.069463 L91.035,100.069463 L74.6918182,143.476683 L58.3387013,100.069463 Z M94.1049351,100.069463 L117.372857,100.069463 L77.7418831,143.476683 L94.1049351,100.069463 Z" id="Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
