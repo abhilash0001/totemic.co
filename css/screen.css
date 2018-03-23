@@ -59,9 +59,34 @@ header {
 }
 .header__logo {
     width:179px;
+    padding-top: 10px;
 }
 .header__nav {
     float:right;
+}
+.header__utility{
+    text-align: right;
+    padding: 0 20px 8px;
+    margin-top: -16px;
+    color: white;
+    font-size: 12px;
+}
+.header__utility img{
+    width: 26px;
+    height: 16px;
+}
+.header__utility_link {
+    float:left;
+    color:#641c3e;
+    font-size:16px;
+    font-weight:900;
+    text-transform:uppercase;
+    text-decoration: none;
+    margin-left:60px;
+    line-height:50px;
+}
+.china_flag{
+    padding-left: 8px;
 }
 .header__link {
     float:left;
@@ -183,6 +208,7 @@ header {
     float:left;
     width:50%;
     padding:0 60px;
+    padding-bottom: 40px;
 }
 .team__image {
     width:260px;
@@ -324,7 +350,8 @@ header {
 }
 
 .contact footer {
-    padding-bottom:20px;
+    padding-bottom:40px;
+    padding-top: 80px;
 }
 .contact footer p {
     color:#858585;
@@ -348,6 +375,36 @@ header {
     font-size:16px;
     background: transparent url('/images/icon_twitter.png') center 0 no-repeat scroll;
     background-position:20px center;
+    text-decoration: none;
+    padding: 10px 55px;
+}
+
+.button--social-media--linkedin {
+    background:white;
+    border:1px solid #f5af65;
+    width:190px;
+    margin:0 auto;
+    line-height:40px;
+    color:#ad6487;
+    font-size:16px;
+    background: transparent url('/images/icon_linkedin.png') center 0 no-repeat scroll;
+    background-position:20px center;
+    text-decoration: none;
+    padding: 10px 55px;
+}
+
+.button--social-media--github {
+    background:white;
+    border:1px solid #f5af65;
+    width:190px;
+    margin:0 auto;
+    line-height:40px;
+    color:#ad6487;
+    font-size:16px;
+    background: transparent url('/images/icon_github.png') center 0 no-repeat scroll;
+    background-position:20px center;
+    text-decoration: none;
+    padding: 10px 55px;
 }
 
 @media only screen and (max-width: 1366px) {
@@ -372,13 +429,13 @@ header {
 
     header, footer, section {
         padding: 0 5%;
-        padding-top:80px;
+        padding-top:20px;
     }
 
     .header__link {
         font-size:14px;
+        margin-left: 50px;
     }
-
 
     .intro {
         padding:0;
@@ -414,6 +471,13 @@ header {
     }
 
 
+}
+
+@media only screen and (max-width: 1024px) {
+    .header__link {
+        font-size:12px;
+        margin-left: 38px;
+    }
 }
 
 @media only screen and (min-width: 1024px) {
@@ -453,7 +517,7 @@ header {
 
     header, footer, section {
         padding: 0 30px;
-        padding-top:80px;
+        padding-top:20px;
     }
     
     .header__logo {
