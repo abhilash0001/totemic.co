@@ -85,7 +85,7 @@ header {
     margin-left:60px;
     line-height:50px;
 }
-.china_flag{
+.china_flag, .republic_china_flag{
     padding-left: 8px;
 }
 .header__link {
